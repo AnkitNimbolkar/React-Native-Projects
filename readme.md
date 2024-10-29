@@ -14,7 +14,7 @@ How to Run
     Clone the Repository:
     Bash
 
-    git clone https://github.com/ankitnimbolkar/<my-repo-name>.git
+    git clone https://github.com/AnkitNimbolkar/React-Native-Projects.git
 
     Use code with caution.
 
